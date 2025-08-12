@@ -1,6 +1,7 @@
 {
   "name": "imageconverter",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "Free online image format converter. Convert between JPEG and PNG formats instantly in your browser.",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
